@@ -109,7 +109,6 @@ const priyank = {
 
 | 🔬 Project | 💡 Description | 🛠 Stack |
 |---|---|---|
-| [**RAG Enterprise Knowledge Assistant**](https://github.com/PriyankTyagii) | Production RAG system processing 50K+ docs with LangChain + FAISS · 89% answer accuracy · 200+ enterprise users | `LangChain` `GPT-4` `FAISS` `FastAPI` `React` |
 | [**Fashion Visual Search AI**](https://fashion-visual-search-intelligent-styling-assistant-priyank.streamlit.app/) | Visual similarity engine indexing 17K+ fashion items using ResNet50 + ChromaDB · 0.85 precision@10 · 2x engagement boost | `TensorFlow` `ResNet50` `ChromaDB` `Streamlit` |
 | [**ComponentForge ⚒**](https://component-forge-beige.vercel.app) | AI-powered Angular component generator with design system enforcement, linter-agent & self-correction loop · <5s generation | `Groq` `Llama 3.3` `Next.js` `TypeScript` `Python` |
 | [**Events Platform**](https://events-platform-ruddy.vercel.app/) | Full-stack event discovery platform with AI assistant (Phi-3), multi-source scraping, real-time Firestore & Google OAuth | `Next.js` `Firebase` `HuggingFace` `TypeScript` |
