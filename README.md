@@ -91,13 +91,18 @@ const priyank = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PriyankTyagii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankTyagii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" height="180"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PriyankTyagii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" height="180"/>
+    </td>
+
+  </tr>
+</table>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PriyankTyagii&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1&sideLabels=c9d1d9&dates=8b949e&timezone=Asia%2FKolkata" height="180"/>
+<img src="https://streak-stats.demolab.com?user=PriyankTyagii&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1&sideLabels=c9d1d9&dates=8b949e&timezone=Asia%2FKolkata&mode=weekly" height="180"/>
 
 </div>
 
@@ -159,7 +164,7 @@ const priyank = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyankTyagii&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=f59e0b&area=true&area_color=6366f120" width="100%"/>
+  <img src="https://ghchart.rshah.org/40c463/PriyankTyagii" alt="GitHub Contribution Chart" width="100%"/>
 </div>
 
 ---
