@@ -97,7 +97,7 @@ const priyank = {
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=PriyankTyagii&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1&sideLabels=c9d1d9&dates=8b949e" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=PriyankTyagii&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1&sideLabels=c9d1d9&dates=8b949e&timezone=Asia%2FKolkata" height="180"/>
 
 </div>
 
