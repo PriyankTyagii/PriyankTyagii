@@ -161,14 +161,6 @@ const priyank = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/40c463/PriyankTyagii" alt="GitHub Contribution Chart" width="100%"/>
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Let's Connect & Build Something Great
