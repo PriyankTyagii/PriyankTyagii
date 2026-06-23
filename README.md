@@ -2,7 +2,7 @@
 
 # Hi there, I'm Priyank Tyagi 👋
 
-**Full Stack Developer · AI/ML Engineer · RAG & LLM Systems Builder**
+**Full Stack Developer · AI/ML Engineer**
 
 1+ year of experience building production-grade AI systems
 
